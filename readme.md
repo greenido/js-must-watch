@@ -12,6 +12,7 @@
 1. [Alex Russell, Jake Archibald: **Bridging the gap between the web and apps**](https://www.youtube.com/watch?v=_yy0CDLnhMA) #io14
 1. [Scott Hanselman: **Virtual Machines, JavaScript and Assembler**](https://www.youtube.com/watch?v=UzyoT4DziQ4)
 2. [Christian Heilmann: **HTML5DevConf , Mozilla: Write less, achieve Meh**](https://www.youtube.com/watch?v=enIautN3_tI)
+3. [Erin Swenson-Healey: **Carbon Five: Hanging Up On Callbacks: Generators in ECMAScript 6**](https://www.youtube.com/watch?v=kH_WuLbb-8A)
 
 ## 2013
 1. [Nat Duca: **Jank Free: Chrome Rendering Performance**](https://www.youtube.com/watch?v=n8ep4leoN9A&feature=youtu.be) #io13
